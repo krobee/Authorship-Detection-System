@@ -1,4 +1,4 @@
-# [MapReduce] Content Based Authorship Detection
+# [MapReduce] Content Based Authorship Detection System
 This project is for CS435 Big data. It builds a content based authorship detection system that provides a ranked list of possible authors for a document whose authorship is unknown using MapReduce.
 ## Details
 ### Offline
