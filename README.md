@@ -1,4 +1,4 @@
-# [MapReduce] Content Based Authorship Detection System
+# Content Based Authorship Detection System
 A content based authorship detection system that provides a ranked list of possible authors for a document whose authorship is unknown using MapReduce.
 ## Details
 ### Offline
